@@ -1,5 +1,14 @@
-# Vue 3 + Vite
+# Excel Management Tool
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Our Excel Management Tool allows you to index your spreadsheets by any specific column, such as names, and store both the values and files in an easily searchable database.<br> Instantly find the exact file you need, along with its folder structure, with just a few clicks.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+View Live Site [here](https://eureka-excel-management-tool-web.onrender.com/)
+
+![screenshot](./screenshot.JPG)
+
+
+# Contact me on
+- LinkedIn: [Natan Asrat](https://linkedin.com/in/natan-asrat)
+- Gmail: nathanyilmaasrat@gmail.com
+- Telegram: [Natan Asrat](https://t.me/fail_your_way_to_success)
+- Youtube: [Natville](https://www.youtube.com/@natvilletutor)
